@@ -1,0 +1,195 @@
+@media (max-width: 680px) {
+  .visible-breadcrumbs ol {
+    min-height: 48px;
+    flex-wrap: wrap;
+    gap: 4px 7px;
+    padding: 8px 0;
+    white-space: normal;
+    overflow-x: visible;
+  }
+
+  .visible-breadcrumbs li {
+    min-width: 0;
+  }
+}
+
+/* Water-tank page: show the two cupboard examples as a compact real-job pair. */
+.legacy-grid aside.water-tank-photo-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  align-items: stretch;
+}
+
+.legacy-grid aside.water-tank-photo-pair img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+}
+
+/* Asbestos Surveys London: real survey evidence and buyer-first report content. */
+.survey-landing-page > .visible-breadcrumbs {
+  order: 0;
+}
+
+.survey-landing-page > .survey-hero {
+  order: 1;
+}
+
+.survey-landing-page > .service-landing-quote {
+  order: 2;
+}
+
+.survey-landing-page > .survey-choice {
+  order: 3;
+}
+
+.survey-landing-page > .survey-clients {
+  order: 4;
+}
+
+.survey-landing-page > .survey-report {
+  order: 5;
+}
+
+.survey-landing-page > .survey-evidence {
+  order: 6;
+}
+
+.survey-landing-page > .artex-faq {
+  order: 7;
+}
+
+.survey-landing-page > .borough-section {
+  order: 8;
+}
+
+.survey-hero > img {
+  object-position: center 58%;
+  filter: saturate(.82) contrast(1.04);
+}
+
+.survey-hero .legacy-hero-inner > p:not(.service-label) {
+  max-width: 690px;
+}
+
+.survey-type-points span strong {
+  color: var(--ink);
+  display: block;
+  margin-bottom: 4px;
+}
+
+.survey-feature-photo {
+  margin: 0;
+  position: relative;
+}
+
+.legacy-grid aside .survey-feature-photo img {
+  width: 100%;
+  height: 520px;
+  object-fit: cover;
+}
+
+.survey-choice .survey-feature-photo img {
+  object-position: center 60%;
+}
+
+.survey-report .survey-feature-photo img {
+  object-position: center 42%;
+}
+
+.survey-feature-photo figcaption {
+  background: var(--navy);
+  color: var(--white);
+  font-size: 12px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 13px 15px;
+}
+
+.survey-report {
+  background: var(--paper);
+}
+
+.survey-report article > p:not(.section-label) {
+  margin-bottom: 18px;
+}
+
+.survey-report .text-link {
+  border-bottom: 1px solid var(--navy);
+  color: var(--navy);
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 800;
+  margin-top: 8px;
+  padding-bottom: 4px;
+}
+
+.survey-evidence {
+  background: var(--white);
+  padding: 104px 0;
+}
+
+.survey-evidence h2 {
+  max-width: 790px;
+  margin: 0 0 22px;
+}
+
+.survey-evidence-intro {
+  color: var(--muted);
+  max-width: 720px;
+  font-size: 15px;
+  line-height: 1.7;
+  margin: 0 0 42px;
+}
+
+.survey-evidence-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.survey-evidence-grid figure {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  margin: 0;
+}
+
+.survey-evidence-grid img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  width: 100%;
+}
+
+.survey-evidence-grid figcaption {
+  color: var(--ink);
+  font-size: 13px;
+  line-height: 1.55;
+  margin: 0;
+  padding: 16px;
+}
+
+@media (max-width: 760px) {
+  .survey-hero > img {
+    object-position: 58% center;
+  }
+
+  .legacy-grid aside .survey-feature-photo img {
+    height: auto;
+    max-height: 500px;
+  }
+
+  .survey-evidence {
+    padding: 68px 0;
+  }
+
+  .survey-evidence-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .survey-evidence-grid figcaption {
+    font-size: 14px;
+  }
+}

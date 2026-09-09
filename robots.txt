@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /ajax/
+Disallow: /apps/
+
+Sitemap: https://asbestosremovalsinlondon.co.uk/sitemap.xml

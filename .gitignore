@@ -1,0 +1,8 @@
+*.zip
+*.tar
+*.tar.gz
+*.tar.zst
+node_modules/
+.cache/
+*.bak
+*backup*
