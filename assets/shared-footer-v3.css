@@ -1,0 +1,18 @@
+/* Shared homepage footer: retain navigation and contact details at every width. */
+.shared-footer .footer-main{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px 40px;padding:32px 0;min-height:0}
+.shared-footer .footer-main>*{min-width:0}
+.shared-footer .footer-main>p{display:block;max-width:30rem}
+.shared-footer .footer-hub-links{display:flex;gap:8px}
+.shared-footer .footer-phone{overflow-wrap:anywhere;display:block;font-size:15px}
+.shared-footer .footer-legal{flex-wrap:wrap;gap:12px 24px}
+.shared-footer .footer-bottom{gap:16px;padding:18px 0 52px}
+.shared-footer .back-top-link{font-size:11px;font-weight:800}
+.shared-footer a:hover{text-decoration:underline;text-underline-offset:3px}
+@media(max-width:680px){
+ .shared-footer .footer-main{grid-template-columns:minmax(0,1fr);gap:18px;padding:28px 0}
+ .shared-footer .footer-brand{gap:8px}
+ .shared-footer .footer-brand em{font-size:8px;letter-spacing:.1em}
+ .shared-footer .footer-hub-links a{padding:5px 0;font-size:12px}
+ .shared-footer .footer-phone{font-size:14px}
+ .shared-footer .footer-bottom{align-items:flex-start;gap:14px;padding-bottom:64px}
+}
