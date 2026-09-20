@@ -7,6 +7,7 @@ Options -Indexes
   RewriteRule ^ https://asbestosremovalsinlondon.co.uk%{REQUEST_URI} [R=301,L,NE]
 </IfModule>
 
+Redirect 301 /home.html /
 Redirect 301 /london-borough-of-sutton-asbestos-removal.html /asbestos-removal-sutton-london.html
 
 <IfModule mod_headers.c>
