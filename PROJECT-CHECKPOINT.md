@@ -89,3 +89,22 @@ Do not relabel either as confirmed asbestos pipe lagging unless job/survey conte
 2. Complete surgical pipe-page content + connected graph upgrade on working branch.
 3. Re-read current V3 master and run page-level PASS/FAIL/N/A audit.
 4. Do not merge to main until diff, technical checks and image/schema checks pass.
+
+
+## 20 Sep — Clean disposal URL migration completed on safe branch
+- Created `/asbestos-disposal-london.html` as the clean canonical service URL.
+- Replaced malformed `/asbestos8203-8203disposal8203-8203in8203-8203london.html` with a permanent 301 redirect.
+- Removed malformed page file after redirect was added.
+- Replaced malformed sitemap URL with clean URL and aligned primary image association.
+- Added clean disposal page to asbestos removal services hub.
+- New page: ~1,319 editorial words; 8 visible FAQs with matching FAQPage; connected WebPage/Service/ImageObject/Breadcrumb/FAQ graph; Formspree honeypot; 30-minute permitted response wording.
+- Protected intent/title/H1: Asbestos Disposal London.
+- Section 126 5-word phrase overlap audit PASS: approx 88.6% uniqueness vs pipe page; 93.1% vs floor; 95.2% vs garage-roof; 91.9% vs commercial.
+- Existing generic primary image retained because visually checked Drive disposal candidates did not prove asbestos content strongly enough for a truthful disposal-specific hero. Do not label them as confirmed asbestos waste without supporting job evidence.
+- GSC history from malformed source: 138 combined impressions, 0 clicks, weak average position; monitor transfer after deployment.
+
+## Pipe page post-edit QA
+- ~1,260 words; URL/title/H1/canonical preserved.
+- Connected graph + 8 FAQ parity + honeypot + 30-minute permitted reply wording PASS.
+- 5-word overlap uniqueness PASS: ~90.8% vs floor, 97.3% vs AIB, 91.9% vs Artex.
+- Current primary image remains the existing ranked asset pending a definitive visual/source verification; page is not yet marked final V3-complete/live.
