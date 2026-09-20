@@ -3,8 +3,16 @@ Options -Indexes
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
+
+  # Canonical hostname: force www to non-www.
   RewriteCond %{HTTP_HOST} ^www\.asbestosremovalsinlondon\.co\.uk$ [NC]
   RewriteRule ^ https://asbestosremovalsinlondon.co.uk%{REQUEST_URI} [R=301,L,NE]
+
+  # Legacy homepage URL seen in Search Console.
+  RewriteRule ^home\.html$ / [R=301,L,NE]
+
+  # Legacy malformed roof-removal URL seen in Search Console.
+  RewriteRule ^asbestos8203-roof-removal8203-8203london\.html$ /asbestos-roof-removal-london.html [R=301,L,NE]
 </IfModule>
 
 Redirect 301 /london-borough-of-sutton-asbestos-removal.html /asbestos-removal-sutton-london.html
