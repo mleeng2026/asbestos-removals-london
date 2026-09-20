@@ -6,3 +6,4 @@ node_modules/
 .cache/
 *.bak
 *backup*
+*-before-*.html
