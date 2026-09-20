@@ -259,3 +259,6 @@ Generated from Windsor.ai Google Search Console property `sc-domain:asbestosremo
 - `/asbestos8203-8203disposal8203-8203in8203-8203london.html` is still in the sitemap and has impressions. Do not delete blindly; map its query intent and redirect target first.
 - Crawlable `*-before-*.html` backup files exist in the deployment repo. Remove them from the deployable branch; Git history is the backup.
 - Priority pages need current V3 Mega Mega image/schema graph audit before being called complete.
+
+
+_Audit execution branch: `seo-protection-v3-20260920`._
