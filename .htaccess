@@ -11,6 +11,9 @@ Options -Indexes
   # Legacy homepage URL seen in Search Console.
   RewriteRule ^home\.html$ / [R=301,L,NE]
 
+  # Legacy malformed disposal URL replaced with a clean canonical service URL.
+  RewriteRule ^asbestos8203-8203disposal8203-8203in8203-8203london\.html$ /asbestos-disposal-london.html [R=301,L,NE]
+
   # Legacy malformed roof-removal URL seen in Search Console.
   RewriteRule ^asbestos8203-roof-removal8203-8203london\.html$ /asbestos-roof-removal-london.html [R=301,L,NE]
 </IfModule>
