@@ -1,12 +1,12 @@
 # PROJECT-CHECKPOINT — Asbestos Removals London
 
-**Checkpoint time:** 21 September 2026, ~12:15 BST  
+**Checkpoint time:** 21 September 2026, after Twickenham final branch audit  
 **Website:** https://asbestosremovalsinlondon.co.uk/  
 **GitHub repo:** `mleeng2026/asbestos-removals-london`  
 **LIVE/default branch:** `main`  
 **ACTIVE REPAIR BRANCH:** `v3-exact-repair-20260921`  
-**Repair branch HEAD at checkpoint:** `ac703167fb7c350f493a27b488c108a3619108f7`  
-**Governing master:** `MATTHEW_1651_20_SEPTEMBER_2026_LOCAL_SEO_V3_MEGA_MEGA_MASTER_LATEST_LATEST.txt`
+**Latest content repair commit before this checkpoint:** `ec74fa775c8a7d32e83c89925df98ad94d5148bd`  
+**Governing master:** `MATTHEW_1141_21_SEPTEMBER_2026_LOCAL_SEO_V3_MEGA_MEGA_MASTER_LATEST_LATEST.txt`
 
 ## START-HERE INSTRUCTION
 
@@ -70,6 +70,7 @@ For important service/location pages:
   - correct borough/local parent/child pages;
   - survey / licensed pages when the buyer journey calls for them.
 - Existing ranking slugs are protected assets. Do not rename, merge or redirect without GSC evidence and intent analysis.
+- Apply the 21 September master additions: Section 125 VideoObject lock, Section 126 85–90% editorial uniqueness, Section 127 page-location control of image/video identity, and Section 128 image-schema/video-datetime lock.
 
 ## IMAGE HARD RULE — MATTHEW’S CORRECTION
 
@@ -122,29 +123,43 @@ Important known opportunities/protection:
 
 ## CURRENT REPAIR STATUS
 
-### 1) Asbestos Artex Removal Twickenham
+### 1) Asbestos Artex Removal Twickenham — FINAL BRANCH AUDIT PASSED
 **File:** `asbestos-artex-removal-twickenham.html`  
-**Repair status:** rebuilt on repair branch; needs final V3 line-by-line audit before merge.  
-Current measured state:
-- ~1,568 body words
-- 4 content images
-- 8 visible FAQs
-- 8 FAQ schema questions
-- 4 ImageObjects
-- 6 Place entities
-- schema parses
-- no visible image-provenance disclaimer wording
-- page remains focused on asbestos Artex removal / asbestos textured coating removal rather than generic Twickenham asbestos removal
-- image grid uses:
+**Repair commit:** `ec74fa775c8a7d32e83c89925df98ad94d5148bd`  
+**Repair status:** final content, entity, image, schema, linking, form and sitemap audit passed on `v3-exact-repair-20260921`. Do not merge yet.
+
+Verified state:
+- 1,561 main-content words
+- protected title: `Asbestos Artex Removal Twickenham | TW1 & TW2 Quote`
+- protected H1: `Asbestos Artex Removal Twickenham`
+- protected canonical slug: `/asbestos-artex-removal-twickenham.html`
+- GSC protection evidence for `artex removal twickenham`: 26 non-www impressions at average position 7.35 and 14 www impressions at average position 6.57 for 1 June–20 September 2026
+- 4 useful content images, all present at 640 × 480
+- image identity follows SERVICE + LOCATION + LANDMARK/ROAD/SUB-AREA + POSTCODE:
   - Twickenham Station TW1
   - London Road TW1
   - King Street TW1
   - St Margarets TW1
-- JPEG image assets include embedded metadata/GPS for their assigned local image points.
+- embedded JPEG metadata and GPS match the four assigned Place/GeoCoordinate entities
+- one primary image aligns across hero, preload, Open Graph, Twitter, ImageObject and image sitemap
+- sitemap entry present with `2026-09-21` lastmod
+- 8 visible FAQs and 8 FAQ schema questions with exact question/answer parity
+- connected schema parses: WebPage, Service, 6 Place entities, 4 ImageObjects, BreadcrumbList and FAQPage
+- no duplicate HTML IDs
+- all checked internal target pages exist
+- quote form remains POST to Formspree with required contact/privacy fields and file upload
+- no visible V3/SEO/BOFU/internal-implementation caveat wording remains
+- editorial five-word-sequence uniqueness:
+  - 96.68% versus Ilford Artex
+  - 93.29% versus the London Artex service page
+  - 92.97% versus the general Twickenham page
+- no video is present, so the VideoObject rules are N/A
 
-**Still to do before merge:** full master PASS/FAIL/N/A audit, internal-link sanity check, HTML validity check, sitemap primary-image check, rendered desktop/mobile check if live preview becomes available.
+The repair removed the obsolete second image preload, completed Open Graph/Twitter metadata, added favicon variants and replaced visible implementation jargon with buyer-facing copy.
 
-### 2) Asbestos Removal Barnet
+**Only outstanding environment check:** rendered desktop/mobile inspection of this repaired branch if a branch preview becomes available. The branch is intentionally not deployed or merged, so do not claim a live rendered verification.
+
+### 2) Asbestos Removal Barnet — NEXT ACTIVE PAGE
 **File:** `asbestos-removal-barnet-london.html`  
 **Repair status:** rebuilt on repair branch; needs final V3 audit before merge.  
 Current measured state:
@@ -177,7 +192,7 @@ Croydon repair assets created for:
 - asbestos floor tile removal + Waddon CR0
 - asbestos garage roof removal + Selsdon CR2
 
-**Next action:** audit the finished Croydon body/schema/images against the same Twickenham/Barnet standard before moving to the next page.
+**Croydon is not the next active page.** Leave it on the repair branch until Barnet’s final audit is finished and recorded.
 
 ## IMPORTANT: MAIN VS REPAIR BRANCH
 
@@ -191,16 +206,17 @@ At this checkpoint:
 
 Continue by GSC opportunity / protection value, not random site order:
 
-1. Finish Croydon final audit.
-2. Islington borough.
-3. Sutton town.
-4. Sutton borough.
-5. Pipe lagging London — protect existing query traction.
-6. Garage removal London.
-7. Licensed asbestos removal London.
-8. Services hub.
-9. Other location pages from the earlier batch that still fail the full content/image/local-depth standard.
-10. Re-audit all prior “finished” pages rather than trusting the old status.
+1. **Finish Barnet’s final V3 audit.**
+2. Return to Croydon only after Barnet is finished and recorded.
+3. Islington borough.
+4. Sutton town.
+5. Sutton borough.
+6. Pipe lagging London — protect existing query traction.
+7. Garage removal London.
+8. Licensed asbestos removal London.
+9. Services hub.
+10. Other location pages from the earlier batch that still fail the full content/image/local-depth standard.
+11. Re-audit all prior “finished” pages rather than trusting the old status.
 
 For every page:
 **read master → check GSC/query ownership → check current page/repo → rebuild only what is needed → 1,100–1,700 earned words where justified → ≥4 useful images → local fingerprint → BOFU/AEO/E-E-A-T → internal anchors → connected schema → exact FAQ parity → image GEO/schema system → sitemap → final PASS/FAIL/N/A audit.**
