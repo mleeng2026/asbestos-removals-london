@@ -159,7 +159,7 @@ The repair removed the obsolete second image preload, completed Open Graph/Twitt
 
 **Only outstanding environment check:** rendered desktop/mobile inspection of this repaired branch if a branch preview becomes available. The branch is intentionally not deployed or merged, so do not claim a live rendered verification.
 
-### 2) Asbestos Removal Barnet — NEXT ACTIVE PAGE
+### 2) Asbestos Removal Barnet — DEFERRED UNTIL SECOND LAST
 **File:** `asbestos-removal-barnet-london.html`  
 **Repair status:** rebuilt on repair branch; needs final V3 audit before merge.  
 Current measured state:
@@ -180,7 +180,7 @@ Current measured state:
 
 **Still to do before merge:** final V3 audit, primary image/sitemap alignment verification on repair branch, HTML validity, desktop/mobile rendering check.
 
-### 3) Asbestos Removal Croydon
+### 3) Asbestos Removal Croydon — DEFERRED UNTIL LAST
 **File:** `asbestos-removal-croydon-london.html`  
 **Repair status:** rebuilt on repair branch; do not call complete until final V3 audit.  
 Repair branch current HEAD commit message is:
@@ -192,7 +192,7 @@ Croydon repair assets created for:
 - asbestos floor tile removal + Waddon CR0
 - asbestos garage roof removal + Selsdon CR2
 
-**Croydon is not the next active page.** Leave it on the repair branch until Barnet’s final audit is finished and recorded.
+**Do Barnet second-last and Croydon last.** Leave both rebuilt pages on the repair branch until the higher-value pages below are audited and recorded.
 
 ## IMPORTANT: MAIN VS REPAIR BRANCH
 
@@ -206,17 +206,16 @@ At this checkpoint:
 
 Continue by GSC opportunity / protection value, not random site order:
 
-1. **Finish Barnet’s final V3 audit.**
-2. Return to Croydon only after Barnet is finished and recorded.
-3. Islington borough.
-4. Sutton town.
-5. Sutton borough.
-6. Pipe lagging London — protect existing query traction.
-7. Garage removal London.
-8. Licensed asbestos removal London.
-9. Services hub.
-10. Other location pages from the earlier batch that still fail the full content/image/local-depth standard.
-11. Re-audit all prior “finished” pages rather than trusting the old status.
+1. **Asbestos Pipe Lagging Removal London — NEXT ACTIVE PAGE.** Protect `/asbestos-pipe-removal-london.html`: 398 impressions from 1 June–20 September 2026; `pipe lagging removal london` averages position 5.7. Improve surgically, not with a blind rewrite.
+2. Garage Removal London — high impression opportunity, but inspect the competing garage/garage-roof URLs and www history before editing.
+3. Sutton town/borough — resolve the competing Sutton URLs and intent ownership before changing copy.
+4. Islington borough.
+5. Licensed Asbestos Removal London.
+6. Services hub.
+7. Other location pages from the earlier batch that still fail the full content/image/local-depth standard.
+8. Re-audit other prior “finished” pages rather than trusting the old status.
+9. **Barnet final V3 audit — second-last.**
+10. **Croydon final V3 audit — last.**
 
 For every page:
 **read master → check GSC/query ownership → check current page/repo → rebuild only what is needed → 1,100–1,700 earned words where justified → ≥4 useful images → local fingerprint → BOFU/AEO/E-E-A-T → internal anchors → connected schema → exact FAQ parity → image GEO/schema system → sitemap → final PASS/FAIL/N/A audit.**
