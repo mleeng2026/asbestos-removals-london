@@ -1,0 +1,640 @@
+{
+  "desktop": [
+    {
+      "page": "/asbestos-removal-barnet-london.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-croydon-london.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-south-london.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-twickenham.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-wood-green.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-ealing-london.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-kensington-and-chelsea-london.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-shoreditch.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-south-norwood.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-thornton-heath.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-tottenham.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-muswell-hill.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-north-kensington.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-pinner.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-rainham.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-croydon.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-hackney-central.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-leytonstone.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-west-london.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-angel.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-chessington.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    },
+    {
+      "page": "/asbestos-removal-crouch-end.html",
+      "layout": {
+        "clientWidth": 1348,
+        "faq": 6,
+        "panels": 4,
+        "scrollWidth": 1348,
+        "width": 1363
+      }
+    }
+  ],
+  "mobile": [
+    {
+      "page": "/asbestos-removal-barnet-london.html",
+      "layout": {
+        "bodyWidth": 375,
+        "images": [
+          {
+            "loaded": true,
+            "width": 375
+          },
+          {
+            "loaded": true,
+            "width": 339
+          },
+          {
+            "loaded": true,
+            "width": 339
+          }
+        ],
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-croydon-london.html",
+      "layout": {
+        "bodyWidth": 375,
+        "images": [
+          {
+            "loaded": true,
+            "width": 375
+          },
+          {
+            "loaded": true,
+            "width": 339
+          },
+          {
+            "loaded": true,
+            "width": 339
+          }
+        ],
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-south-london.html",
+      "layout": {
+        "bodyWidth": 375,
+        "images": [
+          {
+            "loaded": true,
+            "width": 375
+          },
+          {
+            "loaded": true,
+            "width": 339
+          },
+          {
+            "loaded": true,
+            "width": 339
+          }
+        ],
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-twickenham.html",
+      "layout": {
+        "bodyWidth": 375,
+        "images": [
+          {
+            "loaded": true,
+            "width": 375
+          },
+          {
+            "loaded": true,
+            "width": 339
+          },
+          {
+            "loaded": false,
+            "width": 339
+          }
+        ],
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-wood-green.html",
+      "layout": {
+        "bodyWidth": 375,
+        "images": [
+          {
+            "loaded": true,
+            "width": 375
+          },
+          {
+            "loaded": true,
+            "width": 339
+          },
+          {
+            "loaded": false,
+            "width": 339
+          }
+        ],
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-ealing-london.html",
+      "layout": {
+        "bodyWidth": 375,
+        "images": [
+          {
+            "loaded": true,
+            "width": 375
+          },
+          {
+            "loaded": true,
+            "width": 339
+          },
+          {
+            "loaded": true,
+            "width": 339
+          }
+        ],
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-kensington-and-chelsea-london.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-shoreditch.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-south-norwood.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-thornton-heath.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-tottenham.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-muswell-hill.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-north-kensington.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-pinner.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-rainham.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-croydon.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-hackney-central.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-leytonstone.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-west-london.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-angel.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-chessington.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    },
+    {
+      "page": "/asbestos-removal-crouch-end.html",
+      "layout": {
+        "bodyWidth": 375,
+        "openPanels": 1,
+        "scrollWidth": 375,
+        "width": 375
+      },
+      "final": {
+        "imagesLoaded": true,
+        "openFaqs": 1,
+        "scrollWidth": 375,
+        "width": 375
+      }
+    }
+  ]
+}

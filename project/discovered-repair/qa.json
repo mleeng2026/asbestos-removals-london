@@ -252,6 +252,7 @@
       "overlap_percent": 5.16
     }
   ],
-  "live_verification": "pending",
-  "mobile_visual_verification": "pending"
+  "live_verification": "PASS: 91 public HTML, image, CSS and sitemap responses are HTTP 200 and byte-identical to reviewed files",
+  "mobile_visual_verification": "PASS: all 22 pages rendered in 390px browser frames (375px content area); no horizontal overflow, all 66 images loaded, content dropdowns and FAQs opened",
+  "desktop_verification": "PASS: all 22 pages at 1363px browser width, no horizontal overflow; quote navigation checked without submitting a lead"
 }
