@@ -1,3 +1,18 @@
+# CURRENT EXECUTION UPDATE — 23 September 2026
+
+- Recovered the saved pipe-lagging repair from the previous workspace and uploaded all six changed files to the authorised public repair branch.
+- Remote content commit: `18f717285b12f572792e56ea1dd16416b59216c6`.
+- Remote tree: `05fdf3b9ede8c65db886a0b01b4f639e99b3b45b`, exactly matches recovered local commit `eee0204029d180cfa3c1b86ca730ba08dab8303a`.
+- Files: pipe page HTML, four WebP photographs, and sitemap.xml. Source checked: JSON-LD parses; four ImageObjects; self-canonical; no missing local href/src targets; existing Formspree POST configuration preserved. Git whitespace check passed.
+- Live HTTPS www homepage observed returning 301 to HTTPS non-www, followed by 200. The prior search result showing an old www page does not establish that a separate www page is currently served. Do not switch canonical architecture or add speculative redirect changes.
+- Latest master located in Drive: `1Jf1ogly1yf7kelCY9n_d0nlin6wHjZNl`, named `MATTHEW_1141_21_SEPTEMBER_2026_LOCAL_SEO_V3_MEGA_MEGA_MASTER_LATEST_LATEST.txt`.
+- Still outstanding: final full editorial/image-metadata/local-identity audit and rendered desktop/mobile verification of recovered pipe repair. Source checks are not a complete V3 pass. Local browser was unavailable and its download failed; there is no verified deployed repair-branch preview.
+- In particular, review whether image ALT/captions and embedded metadata fully carry the assigned local identities; current source has local filename/Place/GEO assignments but some ALT/captions only say London.
+- `main` was not changed. Repair is uploaded, NOT deployed. No Search Console indexing submission was made.
+- Continue pipe final QA before Garage Removal and the established queue. Barnet second-last; Croydon last.
+
+---
+
 # PROJECT-CHECKPOINT — Asbestos Removals London
 
 **Checkpoint time:** 21 September 2026, after Twickenham final branch audit  
