@@ -1,0 +1,354 @@
+{
+  "angel": [
+    {
+      "place": "St John Street  Goswell Road",
+      "url": "https://www.ukcitymap.com/st-john-street-goswell-road-stop-p-info-490013229P.html",
+      "lat": 51.531416,
+      "lon": -0.10628,
+      "postcode": "N1"
+    },
+    {
+      "place": "White Lion Street",
+      "url": "https://www.ukcitymap.com/white-lion-street-stop-u-info-490014603U.html",
+      "lat": 51.532855,
+      "lon": -0.107374,
+      "postcode": "N1"
+    }
+  ],
+  "chessington": [
+    {
+      "place": "Chessington South",
+      "url": "https://www.ukcitymap.com/chessington-south-rail-station-entrance-1-info-4900CHSSS1.html",
+      "lat": 51.356273,
+      "lon": -0.30824,
+      "postcode": "KT9"
+    },
+    {
+      "place": "Garrison Lane",
+      "url": "https://www.ukcitymap.com/garrison-lane-stop-d-info-490009048D.html",
+      "lat": 51.356859,
+      "lon": -0.311478,
+      "postcode": "KT9"
+    }
+  ],
+  "crouch-end": [
+    {
+      "place": "Wolseley Road",
+      "url": "https://www.ukcitymap.com/wolseley-road-e-info-490003229E.html",
+      "lat": 51.580909,
+      "lon": -0.128573,
+      "postcode": "N8"
+    },
+    {
+      "place": "Coolhurst Road",
+      "url": "https://www.ukcitymap.com/coolhurst-road-e-info-490000418Z.html",
+      "lat": 51.580151,
+      "lon": -0.131837,
+      "postcode": "N8"
+    }
+  ],
+  "croydon": [
+    {
+      "place": "George Street Tram Stop",
+      "url": "https://www.ukcitymap.com/george-street-tram-stop-info-9400ZZCRCEN1.html",
+      "lat": 51.373815,
+      "lon": -0.098753,
+      "postcode": "CR0"
+    },
+    {
+      "place": "Park Street",
+      "url": "https://www.ukcitymap.com/park-street-stop-kj-info-490010839C4.html",
+      "lat": 51.373429,
+      "lon": -0.098223,
+      "postcode": "CR0"
+    }
+  ],
+  "ealing": [
+    {
+      "place": "Ealing Broadway",
+      "url": "https://www.ukcitymap.com/ealing-broadway-stop-h-info-490000062H.html",
+      "lat": 51.514005,
+      "lon": -0.302979,
+      "postcode": "W5"
+    },
+    {
+      "place": "Ealing Broadway",
+      "url": "https://www.ukcitymap.com/ealing-broadway-rail-station-info-9100EALINGB.html",
+      "lat": 51.514841,
+      "lon": -0.301752,
+      "postcode": "W5"
+    }
+  ],
+  "hackney": [
+    {
+      "place": "Hackney Town Hall",
+      "url": "https://www.ukcitymap.com/hackney-town-hall-stop-a-info-490007626A.html",
+      "lat": 51.545063,
+      "lon": -0.055452,
+      "postcode": "E8"
+    },
+    {
+      "place": "Hackney Grove",
+      "url": "https://www.ukcitymap.com/hackney-grove-stop-lt-info-490016358W.html",
+      "lat": 51.543483,
+      "lon": -0.056731,
+      "postcode": "E8"
+    }
+  ],
+  "kensington": [
+    {
+      "place": "High Street Kensington",
+      "url": "https://www.ukcitymap.com/high-street-kensington-underground-station-entrance-1-info-4900ZZLUHSK1.html",
+      "lat": 51.501031,
+      "lon": -0.192923,
+      "postcode": "W8"
+    },
+    {
+      "place": "Phillimore Gardens",
+      "url": "https://www.ukcitymap.com/phillimore-gardens-stop-s-info-490010984S.html",
+      "lat": 51.500045,
+      "lon": -0.196088,
+      "postcode": "W8"
+    }
+  ],
+  "leytonstone": [
+    {
+      "place": "Leytonstone Station",
+      "url": "https://www.ukcitymap.com/leytonstone-station-stop-x-info-490000137X.html",
+      "lat": 51.569239,
+      "lon": 0.009389,
+      "postcode": "E11"
+    },
+    {
+      "place": "Leytonstone",
+      "url": "https://www.ukcitymap.com/leytonstone-underground-station-info-9400ZZLULYS1.html",
+      "lat": 51.568342,
+      "lon": 0.008209,
+      "postcode": "E11"
+    }
+  ],
+  "muswell-hill": [
+    {
+      "place": "Rosebery Road (N10)",
+      "url": "https://www.ukcitymap.com/rosebery-road-n10-sw-info-490011684S.html",
+      "lat": 51.598482,
+      "lon": -0.13829,
+      "postcode": "N10"
+    },
+    {
+      "place": "Colney Hatch Lane  Alexandra Park Road",
+      "url": "https://www.ukcitymap.com/colney-hatch-lane-alexandra-park-road-stop-cp-info-490005509N.html",
+      "lat": 51.596189,
+      "lon": -0.144014,
+      "postcode": "N10"
+    }
+  ],
+  "north-kensington": [
+    {
+      "place": "Oxford Gardens",
+      "url": "https://www.ukcitymap.com/oxford-gardens-stop-f-info-490004699N.html",
+      "lat": 51.517713,
+      "lon": -0.215324,
+      "postcode": "W10"
+    },
+    {
+      "place": "St Charles Square St Marks Rd",
+      "url": "https://www.ukcitymap.com/st-charles-square-st-marks-rd-stop-b-info-490012646S.html",
+      "lat": 51.519518,
+      "lon": -0.217574,
+      "postcode": "W10"
+    }
+  ],
+  "pinner": [
+    {
+      "place": "Pinner",
+      "url": "https://www.ukcitymap.com/pinner-stand-z1-info-490015522E.html",
+      "lat": 51.594383,
+      "lon": -0.383,
+      "postcode": "HA5"
+    },
+    {
+      "place": "Love Lane (HA5)",
+      "url": "https://www.ukcitymap.com/love-lane-ha5-stop-d-info-490004332D.html",
+      "lat": 51.594705,
+      "lon": -0.383508,
+      "postcode": "HA5"
+    }
+  ],
+  "rainham": [
+    {
+      "place": "Rainham War Memorial",
+      "url": "https://www.ukcitymap.com/rainham-war-memorial-stop-d-info-490011396D.html",
+      "lat": 51.518795,
+      "lon": 0.189955,
+      "postcode": "RM13"
+    },
+    {
+      "place": "Rainham (London)",
+      "url": "https://www.ukcitymap.com/rainham-london-rail-station-entrance-1-info-4900RNHAME1.html",
+      "lat": 51.516905,
+      "lon": 0.190527,
+      "postcode": "RM13"
+    }
+  ],
+  "shoreditch": [
+    {
+      "place": "Ravey Street",
+      "url": "https://www.ukcitymap.com/ravey-street-stop-z-info-490011448Z.html",
+      "lat": 51.525418,
+      "lon": -0.082483,
+      "postcode": "EC2A"
+    },
+    {
+      "place": "Great Eastern Street",
+      "url": "https://www.ukcitymap.com/great-eastern-street-stop-ya-info-490005619YA.html",
+      "lat": 51.526528,
+      "lon": -0.083273,
+      "postcode": "EC2A"
+    }
+  ],
+  "south-norwood": [
+    {
+      "place": "Norwood Junction",
+      "url": "https://www.ukcitymap.com/norwood-junction-rail-station-entrance-1-info-4900NORWDJ1.html",
+      "lat": 51.397253,
+      "lon": -0.074162,
+      "postcode": "SE25"
+    },
+    {
+      "place": "Portland Road Norwood Jnc Stn",
+      "url": "https://www.ukcitymap.com/portland-road-norwood-jnc-stn-stop-p-info-490001216P.html",
+      "lat": 51.398307,
+      "lon": -0.072623,
+      "postcode": "SE25"
+    }
+  ],
+  "thornton-heath": [
+    {
+      "place": "Colliers Water Lane",
+      "url": "https://www.ukcitymap.com/colliers-water-lane-stop-t-info-490005501T.html",
+      "lat": 51.395387,
+      "lon": -0.114764,
+      "postcode": "CR7"
+    },
+    {
+      "place": "Brigstock Road  London Road",
+      "url": "https://www.ukcitymap.com/brigstock-road-london-road-stop-p-info-490004343P.html",
+      "lat": 51.393655,
+      "lon": -0.113354,
+      "postcode": "CR7"
+    }
+  ],
+  "tottenham": [
+    {
+      "place": "Tottenham Town Hall",
+      "url": "https://www.ukcitymap.com/tottenham-town-hall-stop-v-info-490013739M.html",
+      "lat": 51.587988,
+      "lon": -0.070929,
+      "postcode": "N15"
+    },
+    {
+      "place": "Winchelsea Road",
+      "url": "https://www.ukcitymap.com/winchelsea-road-stop-p-info-490007529W.html",
+      "lat": 51.589146,
+      "lon": -0.07521,
+      "postcode": "N15"
+    }
+  ],
+  "twickenham": [
+    {
+      "place": "York Street  Twickenham",
+      "url": "https://www.ukcitymap.com/york-street-twickenham-e-info-490015022Z.html",
+      "lat": 51.447836,
+      "lon": -0.326516,
+      "postcode": "TW1"
+    },
+    {
+      "place": "Arragon Road (TW1)",
+      "url": "https://www.ukcitymap.com/arragon-road-tw1-stop-d-info-490013862G.html",
+      "lat": 51.449023,
+      "lon": -0.329063,
+      "postcode": "TW1"
+    }
+  ],
+  "west-kensington": [
+    {
+      "place": "Lytton Estate",
+      "url": "https://www.ukcitymap.com/lytton-estate-stop-r-info-490009492S.html",
+      "lat": 51.49267,
+      "lon": -0.207717,
+      "postcode": "W14"
+    },
+    {
+      "place": "West Kensington",
+      "url": "https://www.ukcitymap.com/west-kensington-underground-station-entrance-1-info-4900ZZLUWKN1.html",
+      "lat": 51.490705,
+      "lon": -0.206857,
+      "postcode": "W14"
+    }
+  ],
+  "wood-green": [
+    {
+      "place": "Wood Green",
+      "url": "https://www.ukcitymap.com/wood-green-underground-station-entrance-1-info-4900ZZLUWOG1.html",
+      "lat": 51.5973,
+      "lon": -0.109966,
+      "postcode": "N22"
+    },
+    {
+      "place": "The Broadway (N22)",
+      "url": "https://www.ukcitymap.com/the-broadway-n22-stop-a-info-490015471A.html",
+      "lat": 51.597018,
+      "lon": -0.110859,
+      "postcode": "N22"
+    }
+  ],
+  "elephant-and-castle": [
+    {
+      "place": "Elephant & Castle",
+      "url": "https://www.ukcitymap.com/elephant-castle-underground-station-info-9400ZZLUEAC4.html",
+      "lat": 51.495011,
+      "lon": -0.100529,
+      "postcode": "SE1"
+    },
+    {
+      "place": "London College of Comm",
+      "url": "https://www.ukcitymap.com/london-college-of-comm-stop-z-info-490009270Z.html",
+      "lat": 51.495252,
+      "lon": -0.10206,
+      "postcode": "SE1"
+    }
+  ],
+  "croydon-london": [
+    {
+      "place": "Croydon Library",
+      "url": "https://www.ukcitymap.com/croydon-library-stop-kk-info-490005858C5.html",
+      "lat": 51.372467,
+      "lon": -0.099887,
+      "postcode": "CR0"
+    },
+    {
+      "place": "Whitgift Centre",
+      "url": "https://www.ukcitymap.com/whitgift-centre-stop-wm-info-490014614E14.html",
+      "lat": 51.376465,
+      "lon": -0.098528,
+      "postcode": "CR0"
+    }
+  ],
+  "barnet-london": [
+    {
+      "place": "High Barnet station",
+      "url": "https://www.ukcitymap.com/high-barnet-underground-station-info-9400ZZLUHBT.html",
+      "lat": 51.650541,
+      "lon": -0.194298,
+      "postcode": "EN5"
+    },
+    {
+      "place": "Barnet Church Wood Street",
+      "url": "https://gb.geoview.info/barnet_church_wood_street%2C469786674n",
+      "lat": 51.65298,
+      "lon": -0.20232,
+      "postcode": "EN5"
+    }
+  ]
+}

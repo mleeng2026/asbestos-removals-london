@@ -1,0 +1,806 @@
+{
+  "angel": {
+    "url": "https://www.ukcitymap.com/angel-greater-london-england-satellite-view.html",
+    "lat": "51.53210",
+    "lon": "-0.10660",
+    "pc": "N1 9",
+    "stops": [
+      [
+        "Angel Underground Station (Entrance 1)",
+        "angel-underground-station-entrance-1-info-4900ZZLUAGL1.html"
+      ],
+      [
+        "Angel Underground Station",
+        "angel-underground-station-info-9400ZZLUAGL1.html"
+      ],
+      [
+        "Angel Underground Station",
+        "angel-underground-station-info-9400ZZLUAGL.html"
+      ],
+      [
+        "Angel Station Bus Stop (Stop S)",
+        "angel-station-stop-s-info-490015108S.html"
+      ],
+      [
+        "St John Street  Goswell Road Bus Stop (Stop P)",
+        "st-john-street-goswell-road-stop-p-info-490013229P.html"
+      ],
+      [
+        "Pentonville Road  Baron St Bus Stop (Stop R)",
+        "pentonville-road-baron-st-stop-r-info-490000007R.html"
+      ],
+      [
+        "Angel Underground Station (Entrance 2)",
+        "angel-underground-station-entrance-2-info-4900ZZLUAGL2.html"
+      ],
+      [
+        "White Lion Street Bus Stop (Stop U)",
+        "white-lion-street-stop-u-info-490014603U.html"
+      ]
+    ]
+  },
+  "chessington": {
+    "url": "https://www.ukcitymap.com/chessington-greater-london-england-satellite-view.html",
+    "lat": "51.35623",
+    "lon": "-0.30820",
+    "pc": "KT9 2",
+    "stops": [
+      [
+        "Chessington South Rail Station (Entrance 1)",
+        "chessington-south-rail-station-entrance-1-info-4900CHSSS1.html"
+      ],
+      [
+        "Chessington South Bus Stop (Stop B)",
+        "chessington-south-stop-b-info-490001062W.html"
+      ],
+      [
+        "Chessington South Rail Station",
+        "chessington-south-rail-station-info-9100CHSSS.html"
+      ],
+      [
+        "Chessington South Bus Stop (Stop A)",
+        "chessington-south-stop-a-info-490001062E.html"
+      ],
+      [
+        "Chessington School Bus Stop (Stop E)",
+        "chessington-school-stop-e-info-490005116E.html"
+      ],
+      [
+        "Chessington School Bus Stop (Stop J)",
+        "chessington-school-stop-j-info-490005116J.html"
+      ],
+      [
+        "Selby Close Bus Stop (Stop H)",
+        "selby-close-stop-h-info-490011982H.html"
+      ],
+      [
+        "Garrison Lane Bus Stop (Stop D)",
+        "garrison-lane-stop-d-info-490009048D.html"
+      ]
+    ]
+  },
+  "crouch-end": {
+    "url": "https://www.ukcitymap.com/crouch-end-greater-london-england-satellite-view.html",
+    "lat": "51.58053",
+    "lon": "-0.12954",
+    "pc": "N8 8",
+    "stops": [
+      [
+        "Wolseley Road Bus Stop (->E)",
+        "wolseley-road-e-info-490003229E.html"
+      ],
+      [
+        "Clifton Road  Wolseley Road Bus Stop (->E)",
+        "clifton-road-wolseley-road-e-info-490016765E.html"
+      ],
+      [
+        "Clifton Road  Wolseley Road Bus Stop (->W)",
+        "clifton-road-wolseley-road-w-info-490016765W.html"
+      ],
+      [
+        "Wolseley Road Bus Stop (->W)",
+        "wolseley-road-w-info-490014802Z.html"
+      ],
+      [
+        "Coolhurst Road Bus Stop (->E)",
+        "coolhurst-road-e-info-490000418Z.html"
+      ],
+      [
+        "Tivoli Road Crouch End Bus Stop (->E)",
+        "tivoli-road-crouch-end-e-info-49003229E2.html"
+      ],
+      [
+        "Coolhurst Road Bus Stop (->W)",
+        "coolhurst-road-w-info-490000418Y.html"
+      ],
+      [
+        "Wolseley Road Bus Stop (Stop MR)",
+        "wolseley-road-stop-mr-info-490014802N.html"
+      ]
+    ]
+  },
+  "croydon": {
+    "url": "https://www.ukcitymap.com/croydon-greater-london-england-satellite-view.html",
+    "lat": "51.37364",
+    "lon": "-0.10024",
+    "pc": "CR0 1",
+    "stops": [
+      [
+        "George Street Tram Stop",
+        "george-street-tram-stop-info-9400ZZCRCEN1.html"
+      ],
+      [
+        "George Street Tram Stop (Entrance 1)",
+        "george-street-tram-stop-entrance-1-info-4900ZZCRCEN0.html"
+      ],
+      [
+        "George Street Tram Stop",
+        "george-street-tram-stop-info-9400ZZCRCEN.html"
+      ],
+      [
+        "Croydon Library Bus Stop (Stop KK)",
+        "croydon-library-stop-kk-info-490005858C5.html"
+      ],
+      [
+        "Park Street Bus Stop (Stop KJ)",
+        "park-street-stop-kj-info-490010839C4.html"
+      ],
+      [
+        "Park Street Bus Stop (Stop Z4)",
+        "park-street-stop-z4-info-490010839C2.html"
+      ],
+      [
+        "Park Street Bus Stop (Stop KH)",
+        "park-street-stop-kh-info-490010839C3.html"
+      ],
+      [
+        "Croydon Library Bus Stop (Stop KL)",
+        "croydon-library-stop-kl-info-490005858C6.html"
+      ]
+    ]
+  },
+  "ealing": {
+    "url": "https://www.ukcitymap.com/ealing-greater-london-england-satellite-view.html",
+    "lat": "51.51379",
+    "lon": "-0.30280",
+    "pc": "W5 5",
+    "stops": [
+      [
+        "Ealing Broadway Bus Stop (Stop H)",
+        "ealing-broadway-stop-h-info-490000062H.html"
+      ],
+      [
+        "Ealing Broadway Bus Stop (Stop G)",
+        "ealing-broadway-stop-g-info-490000062G.html"
+      ],
+      [
+        "Ealing Broadway Bus Stop (Stop F)",
+        "ealing-broadway-stop-f-info-490000062F.html"
+      ],
+      [
+        "Ealing Broadway Bus Stop (Stop)",
+        "ealing-broadway-stop-info-490000062RB.html"
+      ],
+      [
+        "Ealing Broadway Rail Station",
+        "ealing-broadway-rail-station-info-9100EALINGB.html"
+      ],
+      [
+        "Ealing Broadway Rail Station (Entrance 1)",
+        "ealing-broadway-rail-station-entrance-1-info-4900EALINGB1.html"
+      ],
+      [
+        "Ealing Broadway Underground Station (Entrance 1)",
+        "ealing-broadway-underground-station-entrance-1-info-4900ZZLUEBY1.html"
+      ],
+      [
+        "Ealing Broadway Bus Stop (Stop K)",
+        "ealing-broadway-stop-k-info-490000062K.html"
+      ]
+    ]
+  },
+  "hackney": {
+    "url": "https://www.ukcitymap.com/hackney-greater-london-england-satellite-view.html",
+    "lat": "51.54475",
+    "lon": "-0.05536",
+    "pc": "E8 1",
+    "stops": [
+      [
+        "Hackney Town Hall Bus Stop (Stop A)",
+        "hackney-town-hall-stop-a-info-490007626A.html"
+      ],
+      [
+        "Hackney Town Hall Bus Stop (Stop B)",
+        "hackney-town-hall-stop-b-info-490007626B.html"
+      ],
+      [
+        "Trelawney Estate Bus Stop (Stop C)",
+        "trelawney-estate-stop-c-info-490007618C.html"
+      ],
+      [
+        "Richmond Road Martello Street Bus Stop (Stop LS)",
+        "richmond-road-martello-street-stop-ls-info-490016358E.html"
+      ],
+      [
+        "Hackney Grove Bus Stop (Stop LT)",
+        "hackney-grove-stop-lt-info-490016358W.html"
+      ],
+      [
+        "Hackney Central  Mare Street Bus Stop (Stop G)",
+        "hackney-central-mare-street-stop-g-info-490009644G.html"
+      ],
+      [
+        "Graham Road  Hackney Central Bus Stop (Stop E)",
+        "graham-road-hackney-central-stop-e-info-490009644E.html"
+      ],
+      [
+        "St Thomas's Square Bus Stop (Stop LZ)",
+        "st-thomass-square-stop-lz-info-490012462S.html"
+      ]
+    ]
+  },
+  "kensington": {
+    "url": "https://www.ukcitymap.com/kensington-greater-london-england-satellite-view.html",
+    "lat": "51.50057",
+    "lon": "-0.19438",
+    "pc": "W8 7",
+    "stops": [
+      [
+        "High Street Kensington Bus Stop (Stop B)",
+        "high-street-kensington-stop-b-info-490000110B.html"
+      ],
+      [
+        "High Street Kensington Bus Stop (Stop A)",
+        "high-street-kensington-stop-a-info-490000110A.html"
+      ],
+      [
+        "High Street Kensington Bus Stop (Stop R)",
+        "high-street-kensington-stop-r-info-490000110R.html"
+      ],
+      [
+        "High Street Kensington Underground Station (Entrance 1)",
+        "high-street-kensington-underground-station-entrance-1-info-4900ZZLUHSK1.html"
+      ],
+      [
+        "High Street Kensington Underground Station",
+        "high-street-kensington-underground-station-info-9400ZZLUHSK.html"
+      ],
+      [
+        "Phillimore Gardens Bus Stop (Stop S)",
+        "phillimore-gardens-stop-s-info-490010984S.html"
+      ],
+      [
+        "High Street Kensington Underground Station",
+        "high-street-kensington-underground-station-info-9400ZZLUHSK1.html"
+      ],
+      [
+        "High Street Kensington Underground Station",
+        "high-street-kensington-underground-station-info-9400ZZLUHSK2.html"
+      ]
+    ]
+  },
+  "leytonstone": {
+    "url": "https://www.ukcitymap.com/leytonstone-greater-london-england-satellite-view.html",
+    "lat": "51.56954",
+    "lon": "0.00807",
+    "pc": "E11 1",
+    "stops": [
+      [
+        "Leytonstone Station Bus Stop (Stop X)",
+        "leytonstone-station-stop-x-info-490000137X.html"
+      ],
+      [
+        "Leytonstone Station Bus Stop (Stop V)",
+        "leytonstone-station-stop-v-info-490000137V.html"
+      ],
+      [
+        "Leytonstone Station Bus Stop (Stop W)",
+        "leytonstone-station-stop-w-info-490000137W.html"
+      ],
+      [
+        "Leytonstone Station Bus Stop (Stop)",
+        "leytonstone-station-stop-info-490009139RB.html"
+      ],
+      [
+        "Leytonstone Station Bus Stop (Stop T)",
+        "leytonstone-station-stop-t-info-490000137T.html"
+      ],
+      [
+        "Leytonstone Underground Station",
+        "leytonstone-underground-station-info-9400ZZLULYS1.html"
+      ],
+      [
+        "Leytonstone Underground Station",
+        "leytonstone-underground-station-info-9400ZZLULYS.html"
+      ],
+      [
+        "Leytonstone Underground Station",
+        "leytonstone-underground-station-info-9400ZZLULYS2.html"
+      ]
+    ]
+  },
+  "muswell-hill": {
+    "url": "https://www.ukcitymap.com/muswell-hill-greater-london-england-satellite-view.html",
+    "lat": "51.59790",
+    "lon": "-0.14075",
+    "pc": "N10 2",
+    "stops": [
+      [
+        "St Andrews Church Bus Stop (Stop)",
+        "st-andrews-church-stop-info-490014757W.html"
+      ],
+      [
+        "St Andrews Church Bus Stop (Stop CR)",
+        "st-andrews-church-stop-cr-info-490014757N.html"
+      ],
+      [
+        "Rosebery Road (N10) Bus Stop (->SW)",
+        "rosebery-road-n10-sw-info-490011684S.html"
+      ],
+      [
+        "Rosebery Road (N10) Bus Stop (->NE)",
+        "rosebery-road-n10-ne-info-490011684N.html"
+      ],
+      [
+        "Colney Hatch Lane  Alexandra Park Road Bus Stop (Stop CP)",
+        "colney-hatch-lane-alexandra-park-road-stop-cp-info-490005509N.html"
+      ],
+      [
+        "Albert Road  Alexandra Pk Rd Bus Stop (Stop)",
+        "albert-road-alexandra-pk-rd-stop-info-490018813W.html"
+      ],
+      [
+        "Colney Hatch Lane  Alexandra Park Road Bus Stop (Stop CS)",
+        "colney-hatch-lane-alexandra-park-road-stop-cs-info-490005509S.html"
+      ],
+      [
+        "Alexandra Park Road Bus Stop (Stop CQ)",
+        "alexandra-park-road-stop-cq-info-490003212S.html"
+      ]
+    ]
+  },
+  "north-kensington": {
+    "url": "https://www.ukcitymap.com/north-kensington-greater-london-england-satellite-view.html",
+    "lat": "51.51841",
+    "lon": "-0.21629",
+    "pc": "W10 6",
+    "stops": [
+      [
+        "Oxford Gardens Bus Stop (Stop F)",
+        "oxford-gardens-stop-f-info-490004699N.html"
+      ],
+      [
+        "Oxford Gardens Bus Stop (Stop C)",
+        "oxford-gardens-stop-c-info-490004699S.html"
+      ],
+      [
+        "Cambridge Gardens St Marks Rd Bus Stop (Stop E)",
+        "cambridge-gardens-st-marks-rd-stop-e-info-490004699E.html"
+      ],
+      [
+        "St Charles Square St Marks Rd Bus Stop (Stop B)",
+        "st-charles-square-st-marks-rd-stop-b-info-490012646S.html"
+      ],
+      [
+        "Cambridge Gardens St Marks Rd Bus Stop (Stop D)",
+        "cambridge-gardens-st-marks-rd-stop-d-info-490004699W.html"
+      ],
+      [
+        "St Charles Square St Marks Rd Bus Stop (Stop G)",
+        "st-charles-square-st-marks-rd-stop-g-info-490012646N.html"
+      ],
+      [
+        "Crowthorne Road Bus Stop (Stop G)",
+        "crowthorne-road-stop-g-info-490005848N.html"
+      ],
+      [
+        "Crowthorne Road Bus Stop (Stop H)",
+        "crowthorne-road-stop-h-info-490005848S.html"
+      ]
+    ]
+  },
+  "pinner": {
+    "url": "https://www.ukcitymap.com/pinner-greater-london-england-satellite-view.html",
+    "lat": "51.59382",
+    "lon": "-0.38215",
+    "pc": "HA5 5",
+    "stops": [
+      [
+        "Pinner Bus Stop (Stop C)",
+        "pinner-stop-c-info-490015522C.html"
+      ],
+      [
+        "Pinner Bus Stop (Stand Z1)",
+        "pinner-stand-z1-info-490015522E.html"
+      ],
+      [
+        "Pinner Underground Station (Entrance 1)",
+        "pinner-underground-station-entrance-1-info-4900ZZLUPNR1.html"
+      ],
+      [
+        "Pinner Underground Station",
+        "pinner-underground-station-info-9400ZZLUPNR.html"
+      ],
+      [
+        "Pinner Underground Station",
+        "pinner-underground-station-info-9400ZZLUPNR1.html"
+      ],
+      [
+        "Love Lane (HA5) Bus Stop (Stop D)",
+        "love-lane-ha5-stop-d-info-490004332D.html"
+      ],
+      [
+        "Pinner Underground Station",
+        "pinner-underground-station-info-9400ZZLUPNR2.html"
+      ],
+      [
+        "Pinner Bus Stop (Stop B)",
+        "pinner-stop-b-info-490000181B.html"
+      ]
+    ]
+  },
+  "rainham": {
+    "url": "https://www.ukcitymap.com/rainham-greater-london-england-satellite-view.html",
+    "lat": "51.51869",
+    "lon": "0.18989",
+    "pc": "RM13 9",
+    "stops": [
+      [
+        "Rainham War Memorial Bus Stop (Stop D)",
+        "rainham-war-memorial-stop-d-info-490011396D.html"
+      ],
+      [
+        "Rainham War Memorial Bus Stop (Stop C)",
+        "rainham-war-memorial-stop-c-info-490011396C.html"
+      ],
+      [
+        "Rainham Tesco Bus Stop (Stop F)",
+        "rainham-tesco-stop-f-info-490011394F.html"
+      ],
+      [
+        "St Helen's Court Bus Stop (->W)",
+        "st-helens-court-w-info-490020119W.html"
+      ],
+      [
+        "Rainham War Memorial Bus Stop (Stop E)",
+        "rainham-war-memorial-stop-e-info-490011396E.html"
+      ],
+      [
+        "Rainham Station Bus Stop (Stop M)",
+        "rainham-station-stop-m-info-490001235W.html"
+      ],
+      [
+        "Rainham (London) Rail Station (Entrance 1)",
+        "rainham-london-rail-station-entrance-1-info-4900RNHAME1.html"
+      ],
+      [
+        "Rainham Station Bus Stop (Stop B)",
+        "rainham-station-stop-b-info-490001235B.html"
+      ]
+    ]
+  },
+  "shoreditch": {
+    "url": "https://www.ukcitymap.com/shoreditch-greater-london-england-satellite-view.html",
+    "lat": "51.52468",
+    "lon": "-0.08394",
+    "pc": "EC2A 4",
+    "stops": [
+      [
+        "Ravey Street Bus Stop (Stop Z)",
+        "ravey-street-stop-z-info-490011448Z.html"
+      ],
+      [
+        "Pitfield Street Shoreditch Bus Stop (Stop M)",
+        "pitfield-street-shoreditch-stop-m-info-490011448S.html"
+      ],
+      [
+        "Old Street Bus Stop (Stop L)",
+        "old-street-stop-l-info-490000169L.html"
+      ],
+      [
+        "Great Eastern Street Bus Stop (Stop YA)",
+        "great-eastern-street-stop-ya-info-490005619YA.html"
+      ],
+      [
+        "Shoreditch Fire Station Bus Stop (Stop K)",
+        "shoreditch-fire-station-stop-k-info-490000169K.html"
+      ],
+      [
+        "Old Street Rail Station (Entrance 3)",
+        "old-street-rail-station-entrance-3-info-4900OLDST3.html"
+      ],
+      [
+        "Old Street Underground Station (Entrance 3)",
+        "old-street-underground-station-entrance-3-info-4900ZZLUODS3.html"
+      ],
+      [
+        "Old Street Rail Station (Entrance 4)",
+        "old-street-rail-station-entrance-4-info-4900OLDST4.html"
+      ]
+    ]
+  },
+  "south-norwood": {
+    "url": "https://www.ukcitymap.com/south-norwood-greater-london-england-satellite-view.html",
+    "lat": "51.39693",
+    "lon": "-0.07370",
+    "pc": "SE25 5",
+    "stops": [
+      [
+        "Norwood Junction Rail Station (Entrance 1)",
+        "norwood-junction-rail-station-entrance-1-info-4900NORWDJ1.html"
+      ],
+      [
+        "Norwood Junction Station Bus Stop (Stop S)",
+        "norwood-junction-station-stop-s-info-490010448S.html"
+      ],
+      [
+        "Norwood Junction Station Bus Stop (Stop T)",
+        "norwood-junction-station-stop-t-info-490001216T.html"
+      ],
+      [
+        "Norwood Junction Rail Station",
+        "norwood-junction-rail-station-info-9100NORWDJ.html"
+      ],
+      [
+        "Norwood Junction Rail Station (Entrance 3)",
+        "norwood-junction-rail-station-entrance-3-info-4900NORWDJ3.html"
+      ],
+      [
+        "Doyle Road Bus Stop (Stop R)",
+        "doyle-road-stop-r-info-490006188R.html"
+      ],
+      [
+        "Norwood Junction Rail Station (Entrance 2)",
+        "norwood-junction-rail-station-entrance-2-info-4900NORWDJ2.html"
+      ],
+      [
+        "Portland Road Norwood Jnc Stn Bus Stop (Stop P)",
+        "portland-road-norwood-jnc-stn-stop-p-info-490001216P.html"
+      ]
+    ]
+  },
+  "thornton-heath": {
+    "url": "https://www.ukcitymap.com/thornton-heath-greater-london-england-satellite-view.html",
+    "lat": "51.39581",
+    "lon": "-0.11125",
+    "pc": "CR7 7",
+    "stops": [
+      [
+        "Whitehorse Manor Brigstock Site Bus Stop (Stop R)",
+        "whitehorse-manor-brigstock-site-stop-r-info-490004342E.html"
+      ],
+      [
+        "Whitehorse Manor Brigstock Site Bus Stop (Stop N)",
+        "whitehorse-manor-brigstock-site-stop-n-info-490004342W.html"
+      ],
+      [
+        "Colliers Water Lane Bus Stop (Stop T)",
+        "colliers-water-lane-stop-t-info-490005501T.html"
+      ],
+      [
+        "Colliers Water Lane Bus Stop (Stop S)",
+        "colliers-water-lane-stop-s-info-490005501S.html"
+      ],
+      [
+        "Nutfield Road Bus Stop (Stop Q)",
+        "nutfield-road-stop-q-info-490010465E.html"
+      ],
+      [
+        "Brigstock Road  London Road Bus Stop (Stop P)",
+        "brigstock-road-london-road-stop-p-info-490004343P.html"
+      ],
+      [
+        "Brigstock Road  London Road Bus Stop (Stop M)",
+        "brigstock-road-london-road-stop-m-info-490004343M.html"
+      ],
+      [
+        "Langdale Road Bus Stop (Stop V)",
+        "langdale-road-stop-v-info-490008939S.html"
+      ]
+    ]
+  },
+  "tottenham": {
+    "url": "https://www.ukcitymap.com/tottenham-greater-london-england-satellite-view.html",
+    "lat": "51.58861",
+    "lon": "-0.07285",
+    "pc": "N15 4",
+    "stops": [
+      [
+        "Tottenham Bus Garage Bus Stop (Stop)",
+        "tottenham-bus-garage-stop-info-490013726N.html"
+      ],
+      [
+        "Tottenham Bus Garage Bus Stop (Stop T)",
+        "tottenham-bus-garage-stop-t-info-490013726K.html"
+      ],
+      [
+        "Tottenham Bus Garage Bus Stop (Stop S)",
+        "tottenham-bus-garage-stop-s-info-490013726L.html"
+      ],
+      [
+        "Tottenham Town Hall Bus Stop (Stop V)",
+        "tottenham-town-hall-stop-v-info-490013739M.html"
+      ],
+      [
+        "Tottenham Town Hall Bus Stop (Stop W)",
+        "tottenham-town-hall-stop-w-info-490013739N.html"
+      ],
+      [
+        "Tottenham Town Hall Bus Stop (Stop U)",
+        "tottenham-town-hall-stop-u-info-490013739FA.html"
+      ],
+      [
+        "Winchelsea Road Bus Stop (Stop P)",
+        "winchelsea-road-stop-p-info-490007529W.html"
+      ],
+      [
+        "Winchelsea Road Bus Stop (Stop G)",
+        "winchelsea-road-stop-g-info-490007529E.html"
+      ]
+    ]
+  },
+  "twickenham": {
+    "url": "https://www.ukcitymap.com/twickenham-greater-london-england-satellite-view.html",
+    "lat": "51.44822",
+    "lon": "-0.32526",
+    "pc": "TW1 9",
+    "stops": [
+      [
+        "York Street  Twickenham Bus Stop (->E)",
+        "york-street-twickenham-e-info-490015022Z.html"
+      ],
+      [
+        "Lebanon Court Bus Stop (Stop F)",
+        "lebanon-court-stop-f-info-490009053W.html"
+      ],
+      [
+        "York Street  Twickenham Bus Stop (->N)",
+        "york-street-twickenham-n-info-490015022Y.html"
+      ],
+      [
+        "York Street  Twickenham Bus Stop (Stop H)",
+        "york-street-twickenham-stop-h-info-490015022H.html"
+      ],
+      [
+        "Lebanon Court Bus Stop (Stop S)",
+        "lebanon-court-stop-s-info-490009053E.html"
+      ],
+      [
+        "York Street  Twickenham Bus Stop (Stop G)",
+        "york-street-twickenham-stop-g-info-490015022W.html"
+      ],
+      [
+        "London Road  Twickenham Bus Stop (Stop F)",
+        "london-road-twickenham-stop-f-info-490013871F.html"
+      ],
+      [
+        "Arragon Road (TW1) Bus Stop (Stop D)",
+        "arragon-road-tw1-stop-d-info-490013862G.html"
+      ]
+    ]
+  },
+  "west-kensington": {
+    "url": "https://www.ukcitymap.com/west-kensington-greater-london-england-satellite-view.html",
+    "lat": "51.49206",
+    "lon": "-0.20738",
+    "pc": "W14 8",
+    "stops": [
+      [
+        "Lytton Estate Bus Stop (Stop R)",
+        "lytton-estate-stop-r-info-490009492S.html"
+      ],
+      [
+        "West Kensington Underground Station (Entrance 1)",
+        "west-kensington-underground-station-entrance-1-info-4900ZZLUWKN1.html"
+      ],
+      [
+        "West Kensington Underground Station",
+        "west-kensington-underground-station-info-9400ZZLUWKN1.html"
+      ],
+      [
+        "West Kensington Underground Station",
+        "west-kensington-underground-station-info-9400ZZLUWKN2.html"
+      ],
+      [
+        "West Kensington Bus Stop (Stop S)",
+        "west-kensington-stop-s-info-490000265A.html"
+      ],
+      [
+        "Lytton Estate Bus Stop (Stop U)",
+        "lytton-estate-stop-u-info-490009492N.html"
+      ],
+      [
+        "West Kensington Underground Station",
+        "west-kensington-underground-station-info-9400ZZLUWKN.html"
+      ],
+      [
+        "West Kensington Bus Stop (Stop T)",
+        "west-kensington-stop-t-info-490000265B.html"
+      ]
+    ]
+  },
+  "wood-green": {
+    "url": "https://www.ukcitymap.com/wood-green-greater-london-england-satellite-view.html",
+    "lat": "51.59718",
+    "lon": "-0.10993",
+    "pc": "N22 6",
+    "stops": [
+      [
+        "Wood Green Underground Station (Entrance 1)",
+        "wood-green-underground-station-entrance-1-info-4900ZZLUWOG1.html"
+      ],
+      [
+        "Wood Green Underground Station",
+        "wood-green-underground-station-info-9400ZZLUWOG1.html"
+      ],
+      [
+        "Wood Green Underground Station",
+        "wood-green-underground-station-info-9400ZZLUWOG.html"
+      ],
+      [
+        "Wood Green Station Bus Stop (Stop D)",
+        "wood-green-station-stop-d-info-490000275D.html"
+      ],
+      [
+        "Wood Green Stn  River Park Rd Bus Stop (Stop B)",
+        "wood-green-stn-river-park-rd-stop-b-info-490015471B.html"
+      ],
+      [
+        "Wood Green Station Bus Stop (Stop F)",
+        "wood-green-station-stop-f-info-490000275F.html"
+      ],
+      [
+        "Wood Green Station Bus Stop (Stop H)",
+        "wood-green-station-stop-h-info-490015567H.html"
+      ],
+      [
+        "The Broadway (N22) Bus Stop (Stop A)",
+        "the-broadway-n22-stop-a-info-490015471A.html"
+      ]
+    ]
+  },
+  "high-barnet": {
+    "error": "HTTP Error 404: Not Found",
+    "url": "https://www.ukcitymap.com/high-barnet-greater-london-england-satellite-view.html"
+  },
+  "elephant-and-castle": {
+    "url": "https://www.ukcitymap.com/elephant-and-castle-greater-london-england-satellite-view.html",
+    "lat": "51.49500",
+    "lon": "-0.10100",
+    "pc": "SE1 6",
+    "stops": [
+      [
+        "Elephant & Castle Underground Station",
+        "elephant-castle-underground-station-info-9400ZZLUEAC4.html"
+      ],
+      [
+        "Elephant & Castle Underground Station",
+        "elephant-castle-underground-station-info-9400ZZLUEAC3.html"
+      ],
+      [
+        "Elephant & Castle Rail Station (Entrance 3)",
+        "elephant-castle-rail-station-entrance-3-info-4900ZZLUEAC3.html"
+      ],
+      [
+        "Elephant & Castle Underground Station",
+        "elephant-castle-underground-station-info-9400ZZLUEAC.html"
+      ],
+      [
+        "Elephant & Castle Station Bus Stop (Stop V)",
+        "elephant-castle-station-stop-v-info-490000073V.html"
+      ],
+      [
+        "Elephant & Castle Underground Station (Entrance 2)",
+        "elephant-castle-underground-station-entrance-2-info-4900ZZLUEAC2.html"
+      ],
+      [
+        "London College of Comm Bus Stop (Stop Z)",
+        "london-college-of-comm-stop-z-info-490009270Z.html"
+      ],
+      [
+        "Elephant & Castle Underground Station (Entrance 1)",
+        "elephant-castle-underground-station-entrance-1-info-4900ZZLUEAC1.html"
+      ]
+    ]
+  }
+}

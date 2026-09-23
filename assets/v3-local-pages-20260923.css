@@ -1,0 +1,21 @@
+
+.v3-local-gallery,.v3-local-content,.v3-local-links{padding:40px 0;background:#faf8f2;color:#102d33}
+.v3-local-gallery .frame,.v3-local-content .frame,.v3-local-links .frame{max-width:1180px}
+.v3-local-gallery h2,.v3-local-content h2,.v3-local-links h2{font-size:30px!important;line-height:1.2!important;letter-spacing:0!important;margin:0 0 18px!important}
+.v3-photo-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+.v3-photo-grid figure{margin:0;background:white;border:1px solid #d7dedb;border-top:5px solid #eabb18}
+.v3-photo-grid img{display:block;width:100%;height:260px;object-fit:cover}
+.v3-photo-grid figcaption{padding:18px;font-size:16px;line-height:1.55;color:#142e34}
+.v3-photo-grid strong,.v3-photo-grid span{display:block}.v3-photo-grid span{margin-top:8px}
+.v3-local-content{padding-top:12px}.v3-panel{border:1px solid #bcc9c6;background:#fff;margin:0 0 14px}
+.v3-panel>summary{display:flex;align-items:center;gap:16px;padding:23px;cursor:pointer;list-style:none;color:#092f38;background:#fff;min-height:64px}
+.v3-panel>summary::-webkit-details-marker{display:none}.v3-panel>summary:after{content:'+';font-size:32px;line-height:1;margin-left:auto;color:#092f38}
+.v3-panel[open]>summary:after{content:'−'}.v3-panel>summary h2{font-size:25px!important;margin:0!important;text-transform:none!important}
+.v3-panel>summary:focus-visible{outline:3px solid #a87500;outline-offset:-4px}.v3-panel-body{padding:0 24px 24px;max-width:90ch}
+.v3-panel-body p{font-size:18px;line-height:1.75;margin:0 0 18px}.v3-panel-body a{color:#07536a;text-decoration:underline;text-underline-offset:3px}
+.v3-local-links .borough-links{display:flex;flex-wrap:wrap;gap:12px}.v3-local-links .borough-links a{background:#fff;color:#092f38!important;border:1px solid #adbdba;padding:14px 18px;min-height:48px;text-decoration:underline;font-size:17px;font-weight:600}
+.v3-quote-prompt{margin:24px 0 0;font-size:18px;line-height:1.6}.v3-quote-prompt a{color:#07536a;text-decoration:underline}
+.v3-local-page .legacy-hero-inner{text-align:center}.v3-local-page .legacy-hero-inner>p,.v3-local-page .legacy-hero h1{margin-left:auto;margin-right:auto}
+.v3-local-page .service-label,.v3-local-page .hero-actions{justify-content:center}.v3-local-page .legacy-hero-inner>p:not(.service-label){max-width:800px}
+.v3-local-page .artex-faq-list summary{min-height:48px}
+@media(max-width:700px){.v3-local-gallery,.v3-local-content,.v3-local-links{padding:26px 0}.v3-photo-grid{grid-template-columns:1fr;gap:20px}.v3-photo-grid img{height:230px}.v3-local-gallery h2,.v3-local-links h2{font-size:27px!important}.v3-panel>summary{padding:18px;gap:12px}.v3-panel>summary h2{font-size:22px!important}.v3-panel-body{padding:0 18px 20px}.v3-panel-body p{font-size:17px}.v3-local-links .borough-links a{flex:1 1 140px}.v3-local-page .legacy-hero-inner>p:not(.service-label){font-size:18px;line-height:1.6}}

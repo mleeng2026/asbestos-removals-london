@@ -1,3 +1,23 @@
+# 22 discovered-page V3 repair — 23 September 2026
+
+User authorised all 22 important discovered pages, excluding other-helpful-links. Latest governing master: MATTHEW_1141_21_SEPTEMBER_2026_LOCAL_SEO_V3_MEGA_MEGA_MASTER_LATEST_LATEST.txt, sections 1–128.
+
+Implemented in this batch:
+- Distinct buyer-led content for all 22 URLs listed in discovered-repair/manifest.json; four native expandable sections, six exact visible/JSON-LD FAQs and three page-specific images per page.
+- Editorial copy including captions: 1,058–1,263 words; maximum pairwise five-word overlap 7.29% including repeated photographic subjects and labels. Draft prose alone maximum 2.7%. These are internal similarity measures, not Google scores.
+- Removed visitor-facing SEO planning language. Preserved useful service coverage and project guidance, with protected H1s, titles, canonical URLs, form markup, analytics, consent, header and footer unchanged.
+- 66 approved-photo derivatives, visually classified by subject, metadata-remuxed with verified local points; decoded pixels unchanged. Primary image, Open Graph, Twitter, Service, WebPage, ImageObject and sitemap aligned.
+- Added direct hub links to South London and West London; contextual service links and local coverage links checked against real files. No homepage change or resubmission.
+- Sitemap dates updated only for changed pages and the locations hub. No redirect or server-rule change.
+
+Verification before publishing: all 22 pass local protected-field, form/script, link, schema/FAQ, image dimensions/GPS/pixel equality and sitemap checks. See discovered-repair/qa.json. Live browser and HTTP checks are pending deployment. The cloud browser has no advertised mobile viewport control; mobile visual QA remains outstanding and must not be claimed as complete. This is not evidence of Google indexing and no Search Console indexing request has been submitted.
+
+Evidence: geodata URLs are recorded with each image in LOCATION-IMAGE-MAP.csv and discovered-repair/geo-*.json. Local research used the councils’ published conservation, centre and employment-area information (Islington, Haringey, Hackney, Croydon, Kingston, Ealing, RBKC, Havering, Harrow, Waltham Forest and Richmond). Technical scope was checked against HSE survey, licensed, non-licensed and notifiable non-licensed work guidance. No completed local job, customer review, fixed price or removal date invented.
+
+Previous Sutton checkpoint retained below.
+
+---
+
 # Asbestos London repair checkpoint — 23 September 2026
 
 Current batch: Sutton town and Sutton borough, preserving both protected URLs.
