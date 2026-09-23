@@ -26,3 +26,6 @@ Primary Drive asbestos image folder checked; only Teesside subfolder exposed and
 ## Remaining
 Carshalton, Wallington, Cheam and remaining borough/town pages need their own source-based repairs. Barnet second-last and Croydon last as agreed.
 Search Console duplicate-canonical investigation paused by Matthew: no Google-selected canonical evidence acquired; no canonical or redirect changes made. Browser sign-in unavailable without correct credentials; Windsor lacks URL Inspection fields.
+
+## Readability update requested by Matthew
+Both Sutton pages now retain all original content within four native expandable sections after the visible introduction. Town gallery moved above the panels; borough adds two relevant existing Sutton secondary images with connected page-specific ImageObject/Place/GEO IDs. Existing filenames, embedded metadata, assigned coordinates and primary-image signals retained. No new location slots or source photographs introduced. Static content preservation, forms/tracking/canonical checks passed. Live verification follows deployment.
