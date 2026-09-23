@@ -14,7 +14,7 @@ Master: MATTHEW_1141_21_SEPTEMBER_2026_LOCAL_SEO_V3_MEGA_MEGA_MASTER_LATEST_LATE
 
 ## Verification
 Static checks passed: internal file targets, canonical, one H1, unique IDs, JSON-LD, exact FAQ parity, form/tracking unchanged; image decode/GPS/pixel equality.
-Cloud Browser cannot access the local preview server; data URL previews prohibited. No workaround attempted after the policy denial. Live desktop/mobile verification remains to be performed after deployment; do not call full V3 completion before it.
+Published through PR #20, main deployment commit 69118a3d41612d341121fd5ed7daaf58223a9612. Live HTML for both pages, sitemap and all six page images returned HTTP 200 and matched local bytes. Desktop browser verified both heroes, quote links reaching rendered forms, and opening FAQs; town gallery images render. No horizontal overflow at 1363px viewport. No test lead submitted. Mobile visual verification remains outstanding: the supported cloud browser has no viewport controls, and browser UI shortcuts did not change it. Do not call full V3 completion before mobile verification. Local preview access was blocked; no workaround after policy denial.
 
 ## Sources
 Local points: UK City Map Sutton, Sutton Station, West Sutton Station, Sutton Common Station and Sutton Head Post Office stop on Grove Road (URLs in LOCATION-IMAGE-MAP).
