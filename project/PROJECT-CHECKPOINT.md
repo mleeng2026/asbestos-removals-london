@@ -1,5 +1,6 @@
 # Controlled borough batch live verification — 24 September 2026
 
+- PR #29 merged as `d99855e4853880f6f3cc6f045929afa18e465c89` to give the ImageObject JSON-LD script its own unique HTML ID on all three pages. Fresh live requests returned HTTP 200, matched the corrected repository HTML bytes and contained exactly one `preferred-image-object` ID per page.
 - PR #28 merged to `main` as `d2b0764a296df7e3853f8ca96b5b086b064a33ba`, and Hostinger auto-deployed. The Bexley, Bromley and Westminster HTML files and `sitemap.xml` returned HTTP 200 and matched the reviewed repository bytes exactly on fresh requests. Their three chosen image URLs returned 200 with `image/webp` delivery.
 - The live desktop browser confirmed each new hero, caption immediately below it and quote form immediately after the caption, with five visible FAQs, the unchanged Formspree action and no horizontal overflow at 1363px. The Bexley image loaded after the initial navigation settled; Bromley and Westminster rendered the expected selected sources. No test enquiry was submitted.
 - Twenty of the recently rewritten borough pages retain shorter content and the common enclosure hero. The other nine previously stronger pages were outside this controlled batch. Mobile visual verification and Google Search Console inspection remain open checks; a live page and sitemap do not prove Google indexing.
