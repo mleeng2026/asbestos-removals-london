@@ -260,7 +260,7 @@
 }
 </script>
 <script src="/assets/bing-uet-consent.js"></script>
-</head>
+<style>.quote-form .quote-row{grid-template-columns:minmax(0,1fr)}</style></head>
 <body>
 <div class="utility-bar">
 <div class="frame utility-inner">
@@ -318,8 +318,7 @@
 <a class="underlined-action aib-quote-match" href="#quote">Request a free quote ↓</a>
 </div>
 </div>
-</section>
-<section class="quote-section service-landing-quote" id="quote">
+</section><section class="quote-section service-landing-quote" id="quote">
 <div class="frame quote-frame">
 <div class="phone-first">
 <p class="section-label light-label">FREE <!-- -->ASBESTOS PIPE LAGGING REMOVAL LONDON<!-- --> QUOTE</p>
@@ -344,10 +343,10 @@
 <label>Location<input required="" placeholder="Postcode or London area" autoComplete="postal-code" name="location"/>
 </label>
 </div>
-<label>How can we help?<textarea required="" name="message" rows="5" placeholder="Tell us about the asbestos work, property or material.">
+<label>When do you need it done?<input type="text" name="when_needed" placeholder="e.g. ASAP or a preferred date" autocomplete="off"></label><label>What asbestos work do you need help with?<textarea required="" name="message" rows="5" placeholder="Tell us about the asbestos work, property or material.">
 </textarea>
 </label>
-<label class="file-upload">Add a file <span>Optional — JPG, PNG, WebP or PDF. Up to 10 files, 25 MB each.</span>
+<label class="file-upload">Add file <span>Optional — JPG, PNG, WebP or PDF. Up to 10 files, 25 MB each.</span>
 <input type="file" accept="image/jpeg,image/png,image/webp,application/pdf" multiple="" name="attachments"/>
 </label>
 <label class="privacy-check">
@@ -360,6 +359,7 @@
 </form>
 </div>
 </section>
+
 <section class="legacy-content">
 <div class="frame legacy-grid">
 <article>
