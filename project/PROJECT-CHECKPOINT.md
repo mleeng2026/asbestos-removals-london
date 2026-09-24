@@ -49,3 +49,32 @@ Search Console duplicate-canonical investigation paused by Matthew: no Google-se
 
 ## Readability update requested by Matthew
 Both Sutton pages now retain all original content within four native expandable sections after the visible introduction. Town gallery moved above the panels; borough adds two relevant existing Sutton secondary images with connected page-specific ImageObject/Place/GEO IDs. Existing filenames, embedded metadata, assigned coordinates and primary-image signals retained. No new location slots or source photographs introduced. Static content preservation, forms/tracking/canonical checks passed. Live verification follows deployment.
+# Borough comparison and editorial repair — 24 September 2026
+
+## Source and checkpoint
+
+- Governing master: `MATTHEW_1141_21_SEPTEMBER_2026_LOCAL_SEO_V3_MEGA_MEGA_MASTER_LATEST_LATEST.txt` (Drive; sections 1–128). Existing handoff `ASBESTOS-LONDON-FULL-WORK-MODE-HANDOFF.txt` read.
+- Starting repository main: `49783d39918c6df5d7ecb08d4df11da789a5b27c`. This is a protected baseline. Work prepared on a separate repair branch; see branch/PR status below when published.
+- All 32 borough URLs (`asbestos-removal-*-london.html`, excluding four regional pages) were compared. Strong/different: Barnet, Croydon, Ealing, Islington, Kensington and Chelsea, Kingston upon Thames, Richmond upon Thames, Sutton and Wandsworth. The other 23 had roughly 440–480 editorial words and 71–73% five-word phrase overlap with another page after common forms/navigation were excluded. This is an internal diagnostic, not a Google score or penalty finding.
+
+## Changes prepared
+
+- Repaired 23 short borough pages: Barking and Dagenham, Bexley, Brent, Bromley, Camden, Enfield, Greenwich, Hackney, Hammersmith and Fulham, Haringey, Harrow, Havering, Hillingdon, Hounslow, Lambeth, Lewisham, Merton, Newham, Redbridge, Southwark, Tower Hamlets, Waltham Forest and Westminster.
+- Each has three separately written local buyer briefs, material and access distinctions, a direct quote path, relevant town/service links and five visible questions with matching FAQPage JSON-LD. These are hypothetical buyer situations, not completed-job claims. Shared homepage/area/service hierarchy and protected slugs remain.
+- Removed the generic six-borough carousel on those pages. Changed the generic hero alt to describe the enclosure without falsely presenting it as work photographed in the borough. Kept the existing generic primary image; no unverified local photo metadata or fabricated geocoordinates were added. Existing Formspree markup, analytics, consent, canonical, business entity and navigation were preserved.
+- Titles retained; descriptions/OG copy updated where necessary. Updated `SITE-INVENTORY.csv` and sitemap `lastmod` only for the 23 changed pages. Robots and `.htaccess` unchanged.
+
+## Technical diagnosis
+
+- Browser navigation of live representative paths on HTTP non-www, HTTP www and HTTPS www all ended on HTTPS non-www with current page content. The HTTPS www East London path also ended at the current HTTPS non-www version. The repository `.htaccess` includes a www-to-non-www 301 rule; HTTP-to-HTTPS appears to be supplied upstream. Exact status and hop count were not measurable in this environment.
+- Search results still showed the older www/Hatton Garden snippets with crawl ages of one to five months. Live East London and homepage content was current after redirect. This supports stale indexing, not evidence of a second live document root. Search Console URL inspection remains necessary before declaring Google's selected canonicals. No speculative mass redirects or slugs changed.
+- Sitemap parses and contains 192 unique URLs. The only root HTML file omitted is `index.html`, represented by `/`; the other omitted file is the deliberately redirected Sutton legacy alias. No missing or noindex sitemap destination was found in the local repository audit.
+
+## QA and limits
+
+- 23/23: one H1, canonical unchanged, Formspree form byte-equivalent in parsed HTML to the baseline, JSON-LD parses, visible/structured FAQs exactly match, internal links/images point to tracked files, and no noindex. Maximum pairwise five-word overlap among repaired pages is 27.3% with shared contact/quote facts included. This measures text overlap only and is not a ranking prediction.
+- Desktop/mobile live visual QA and live byte verification of the new edits remain pending because the edited files are not deployed. The Hostinger browser displayed a Cloudflare security verification page after one reload; no bypass attempted. An automatic approval review rejected inspection of that challenge as a possible browser-security bypass. The shell has no GitHub write credentials, so connector publication is the safe repository route.
+- Existing repeated generic hero imagery remains a quality limitation; source photos need separate visual review before location-specific identities can truthfully be assigned. No production change should be claimed from this checkpoint alone.
+- After deployment, inspect Bromley, Brent, Bexley, Merton, Newham and Westminster first in Search Console, then the remaining revised borough URLs as quota permits. Check Google's selected canonical and live content; do not claim indexing merely from submission. Review old www examples only after a fresh crawl or URL inspection.
+
+---
