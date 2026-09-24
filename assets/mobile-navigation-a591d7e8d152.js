@@ -57,3 +57,23 @@ document.addEventListener("DOMContentLoaded",function(){
     }
   });
 });
+
+// Keep the enquiry fields in one column and collect the requested timescale.
+document.addEventListener("DOMContentLoaded",function(){
+  const style=document.createElement("style");
+  style.textContent=".quote-form .quote-row{grid-template-columns:minmax(0,1fr)}";
+  document.head.appendChild(style);
+  document.querySelectorAll("form.quote-form").forEach(function(form){
+    if(form.querySelector('[name="when_needed"]'))return;
+    const location=form.querySelector('[name="location"]');
+    if(!location)return;
+    const label=document.createElement("label");
+    label.textContent="When do you need it done?";
+    const input=document.createElement("input");
+    input.type="text";
+    input.name="when_needed";
+    input.placeholder="e.g. ASAP or a preferred date";
+    label.appendChild(input);
+    location.closest("label").after(label);
+  });
+});
