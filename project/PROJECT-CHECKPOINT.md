@@ -1,3 +1,12 @@
+# Live deployment and borough quote position — 24 September 2026
+
+- PR #26 merged to main as `25ea771ff302770f084049aca57f151fc54d4216`. Hostinger's GitHub connection automatically deployed it. All 23 revised borough HTML files and the sitemap returned HTTP 200 and matched the reviewed repository bytes exactly. Bexley, Brent, Bromley, Merton, Newham and Westminster showed three distinct briefs, five FAQs, unchanged Formspree action and correct HTTPS non-www canonical in the live desktop browser, with no horizontal overflow at 1363px.
+- A live visual check exposed a pre-existing CSS `order:3` on `.quote-section`. Despite the form following the hero in HTML, this places it after borough content on all 32 borough pages, including Barnet. A 32-page inline override `main.borough-page > section.quote-section{order:0}` is prepared to keep the quote form directly under the hero without changing form markup or the globally cached CSS file. Static comparison confirmed this one style element is the only change to the 32 HTML files.
+- Next: merge and deploy the quote-order fix via GitHub, then verify browser layout on at least Bromley and Barnet, check all 32 live files match the repo, and update this checkpoint. A test form submission was not made. Mobile viewport visual QA remains a separate limit if this browser cannot change viewport.
+- Earlier notes lower in this file describing the 23-page repair as undeployed refer to the state before PR #26 was merged and are superseded by this entry.
+
+---
+
 # 22 discovered-page V3 repair — 23 September 2026
 
 User authorised all 22 important discovered pages, excluding other-helpful-links. Latest governing master: MATTHEW_1141_21_SEPTEMBER_2026_LOCAL_SEO_V3_MEGA_MEGA_MASTER_LATEST_LATEST.txt, sections 1–128.
