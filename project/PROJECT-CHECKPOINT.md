@@ -1,3 +1,10 @@
+# Plain-English correction — 24 September 2026
+
+- Matthew flagged the Bexley and Bromley pages as awkward and repetitive. PR #30 merged as `0cd462643d94ad3aab85fcd711204b64ad9336ba`: both now have three distinct buyer sections, clearer introductions/captions/quote guidance and rewritten visible FAQs with matching FAQPage JSON-LD. Fresh live HTML matched reviewed bytes, and desktop browser checks confirmed correct form action, five FAQs and no horizontal overflow.
+- Draft expansions for 20 remaining shorter boroughs were created locally but **not published**. Editorial review found the same duplication pattern (short briefs repeated by longer sections) and clumsy wording. Do not publish these drafts without restructuring each page and a human-language pass. Production still has the shorter, distinct local briefs and shared hero on those 20 pages.
+
+---
+
 # Controlled borough batch live verification — 24 September 2026
 
 - PR #29 merged as `d99855e4853880f6f3cc6f045929afa18e465c89` to give the ImageObject JSON-LD script its own unique HTML ID on all three pages. Fresh live requests returned HTTP 200, matched the corrected repository HTML bytes and contained exactly one `preferred-image-object` ID per page.
