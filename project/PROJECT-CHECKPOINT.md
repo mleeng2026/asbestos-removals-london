@@ -1,3 +1,11 @@
+# Controlled borough batch live verification — 24 September 2026
+
+- PR #28 merged to `main` as `d2b0764a296df7e3853f8ca96b5b086b064a33ba`, and Hostinger auto-deployed. The Bexley, Bromley and Westminster HTML files and `sitemap.xml` returned HTTP 200 and matched the reviewed repository bytes exactly on fresh requests. Their three chosen image URLs returned 200 with `image/webp` delivery.
+- The live desktop browser confirmed each new hero, caption immediately below it and quote form immediately after the caption, with five visible FAQs, the unchanged Formspree action and no horizontal overflow at 1363px. The Bexley image loaded after the initial navigation settled; Bromley and Westminster rendered the expected selected sources. No test enquiry was submitted.
+- Twenty of the recently rewritten borough pages retain shorter content and the common enclosure hero. The other nine previously stronger pages were outside this controlled batch. Mobile visual verification and Google Search Console inspection remain open checks; a live page and sitemap do not prove Google indexing.
+
+---
+
 # Controlled borough image and content batch — 24 September 2026
 
 - Bexley, Bromley and Westminster now have two additional buyer-led sections each. Their editorial text including visible FAQs, excluding the enquiry form, is approximately 1,130, 1,197 and 1,078 words respectively. The extra detail covers actual scope and access questions without claiming a completed borough job.
