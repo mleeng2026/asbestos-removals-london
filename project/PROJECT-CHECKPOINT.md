@@ -1,3 +1,11 @@
+# Controlled borough image and content batch — 24 September 2026
+
+- Bexley, Bromley and Westminster now have two additional buyer-led sections each. Their editorial text including visible FAQs, excluding the enquiry form, is approximately 1,130, 1,197 and 1,078 words respectively. The extra detail covers actual scope and access questions without claiming a completed borough job.
+- Visually reviewed three existing website photographs and selected a corrugated outbuilding for Bexley, a patterned ceiling for Bromley and a plant/service room for Westminster. Neither photo appearance nor file naming is treated as proof of material or job location. Each page's visible hero, preload, WebPage/ImageObject, Service image, Open Graph, Twitter and sitemap image URL use the same selected asset. Alt and visible caption describe the actual subject and explain its relevance to the enquiry. The existing images returned HTTP 200 with image/webp MIME type before publication.
+- Static QA: one H1 and one unchanged Formspree enquiry form per page, five visible FAQs and parsable JSON-LD, correct HTTPS non-www canonicals, XML sitemap parses, `git diff --check` clean. Live page verification follows deployment. This is a three-page controlled batch; the other 20 recently repaired borough pages still use the shared generic enclosure hero and have shorter editorial copy. Mobile visual QA and Search Console indexing evidence also remain outstanding.
+
+---
+
 # Production verification — 24 September 2026
 
 - PR #27 merged as `7996b9cb3ef5e3cbc9893e591826594071c14a9e` and Hostinger automatically deployed it from GitHub. A cache-busted browser read showed the quote section touching the bottom of the hero on both Bromley and Barnet; the next content section followed the quote section. The form action stayed `https://formspree.io/f/xppaoyqd`, with no horizontal overflow in the 1363px desktop viewport.
