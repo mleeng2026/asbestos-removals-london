@@ -1,3 +1,12 @@
+# Production verification — 24 September 2026
+
+- PR #27 merged as `7996b9cb3ef5e3cbc9893e591826594071c14a9e` and Hostinger automatically deployed it from GitHub. A cache-busted browser read showed the quote section touching the bottom of the hero on both Bromley and Barnet; the next content section followed the quote section. The form action stayed `https://formspree.io/f/xppaoyqd`, with no horizontal overflow in the 1363px desktop viewport.
+- All 32 borough HTML URLs returned HTTP 200 and exact bytes matching the reviewed repository files on fresh HTTP requests with `Cache-Control: no-cache`. The prior 23 editorial repairs and sitemap were also verified live with exact byte comparisons. No test lead was submitted.
+- A previously opened browser tab could briefly show its old cached HTML on the clean URL while the query-busted URL and fresh server request returned the updated version. A fresh request verified the intended production bytes. Mobile visual testing remains outstanding because this cloud browser did not change viewport when its device shortcut was tried.
+- Google-selected canonicals and indexing status remain for Search Console review. Start with Bromley, Brent, Bexley, Merton, Newham and Westminster after normal recrawl. The earlier notes below describing deployment as pending are historical and superseded by this section.
+
+---
+
 # Live deployment and borough quote position — 24 September 2026
 
 - PR #26 merged to main as `25ea771ff302770f084049aca57f151fc54d4216`. Hostinger's GitHub connection automatically deployed it. All 23 revised borough HTML files and the sitemap returned HTTP 200 and matched the reviewed repository bytes exactly. Bexley, Brent, Bromley, Merton, Newham and Westminster showed three distinct briefs, five FAQs, unchanged Formspree action and correct HTTPS non-www canonical in the live desktop browser, with no horizontal overflow at 1363px.
