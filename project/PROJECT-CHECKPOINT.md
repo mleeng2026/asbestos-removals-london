@@ -1,3 +1,9 @@
+# Bexley production trigger — 25 September 2026
+
+- PR #31 merged approved Bexley doorway/scaled-content quality repair to main as ee1aaa6282d14c5a8cb2ce175db3248565a7ae83. A follow-up main commit was made to trigger the established Hostinger GitHub auto-deployment after the first immediate live check still showed cached/previous content. Do not treat deployment as verified until fresh live HTML contains the final Bexley sections, including “Managing a property or block in Bexley?”.
+
+---
+
 # Plain-English correction — 24 September 2026
 
 - Matthew flagged the Bexley and Bromley pages as awkward and repetitive. PR #30 merged as `0cd462643d94ad3aab85fcd711204b64ad9336ba`: both now have three distinct buyer sections, clearer introductions/captions/quote guidance and rewritten visible FAQs with matching FAQPage JSON-LD. Fresh live HTML matched reviewed bytes, and desktop browser checks confirmed correct form action, five FAQs and no horizontal overflow.
