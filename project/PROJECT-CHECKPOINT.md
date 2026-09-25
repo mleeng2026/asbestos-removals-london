@@ -1,3 +1,4 @@
+<!-- deploy-retry-bexley-hero-20260925 -->
 # Bexley live verification — 25 September 2026
 
 - Approved Bexley V3 buyer-led repair is now live at /asbestos-removal-bexley-london.html. Fresh public crawl shows the new survey/no-survey sections, Bexleyheath/Welling asbestos garage roof section, Sidcup/Welling floor-tile section, Manor Road Erith + Thames Road/Crayford commercial context, property-manager section, buyer section, asbestos service links and final FAQs. Production deployment succeeded after the retry commits.
