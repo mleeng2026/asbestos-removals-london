@@ -1,5 +1,7 @@
 # Bexley production trigger — 25 September 2026
 
+Deployment retry marker: 2026-09-25T04:36+01:00 — approved Bexley production content remains in main; this commit intentionally changes tracked production state again to retrigger the Hostinger Git integration.
+
 - PR #31 merged approved Bexley doorway/scaled-content quality repair to main as ee1aaa6282d14c5a8cb2ce175db3248565a7ae83. A follow-up main commit was made to trigger the established Hostinger GitHub auto-deployment after the first immediate live check still showed cached/previous content. Do not treat deployment as verified until fresh live HTML contains the final Bexley sections, including “Managing a property or block in Bexley?”.
 
 ---
